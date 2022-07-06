@@ -1,0 +1,30 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 65px;
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+  color: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.header__logo {
+  width: 2.5rem;
+  margin-right: 6px;
+}
+
+.header__title {
+  font-size: 20px;
+  margin-right: auto;
+  font-family: "Karla", sans-serif;
+}
+
+.header__subtitle {
+  font-size: 0.75rem;
+  font-weight: 500;
+  font-family: "Karla", sans-serif;
+}
