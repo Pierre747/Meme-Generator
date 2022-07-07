@@ -37,6 +37,8 @@ function getMemeImage() {
 
 To deploy this project i've used <https://www.netlify.com>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a6efeab5-d10e-426b-a7b0-37516784e7a5/deploy-status)](https://app.netlify.com/sites/tangerine-dolphin-9a9d5e/deploys)
+
 ## Future features
 
 - I'm actually working on a ***download*** button that could finish the project.
