@@ -7,7 +7,7 @@ I've been practising my react skills with an amazing training you can find right
 
 Feel free to send me some improvements or impressions 😉
 
-To access the project online, *please visit this URL* : https://62c5b758c12f750058be1a8f--tangerine-dolphin-9a9d5e.netlify.app/
+To access the project online, *please visit this URL* : https://tangerine-dolphin-9a9d5e.netlify.app/
 
 ## The toolBox 🛠️
 
@@ -36,6 +36,8 @@ function getMemeImage() {
 ## Deployment 🛫
 
 To deploy this project i've used <https://www.netlify.com>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a6efeab5-d10e-426b-a7b0-37516784e7a5/deploy-status)](https://app.netlify.com/sites/tangerine-dolphin-9a9d5e/deploys)
 
 ## Future features
 
