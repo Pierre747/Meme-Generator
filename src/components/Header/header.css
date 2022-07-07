@@ -15,6 +15,11 @@
 .header__logo {
   width: 2.5rem;
   margin-right: 6px;
+  transition: 0.3s ease-in;
+}
+
+.header__logo:hover {
+  transform: rotate(360deg);
 }
 
 .header__title {
