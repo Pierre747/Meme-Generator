@@ -87,9 +87,9 @@ export default function Meme() {
         <h2 className="meme__text top">{meme.topText}</h2>
         <h2 className="meme__text bottom">{meme.bottomText}</h2>
       </div>
-      <button type="button" onClick={downloadScreenshot}>
+      {/* <button type="button" onClick={downloadScreenshot}>
         Download screenshot
-      </button>
+      </button> */}
     </main>
   );
 }
