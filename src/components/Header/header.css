@@ -16,6 +16,26 @@
   width: 2.5rem;
   margin-right: 6px;
   transition: 0.3s ease-in;
+  animation: hithere 2s ease 2;
+}
+
+@keyframes hithere {
+  30% {
+    transform: scale(1.2);
+  }
+  40%,
+  60% {
+    transform: rotate(-20deg) scale(1.2);
+  }
+  50% {
+    transform: rotate(20deg) scale(1.2);
+  }
+  70% {
+    transform: rotate(0deg) scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
 }
 
 .header__logo:hover {
