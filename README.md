@@ -6,6 +6,7 @@ Hey guys ;)
 I've been practising my react skills with an amazing training you can find right here : <https://scrimba.com/>
 
 The goal of this exercise was simple : to create a meme generator using *React* in order to add a title and a subtitle like any meme enthusiast likes it.
+
 There was no search bar or download button that had to be implemented.
 
 Feel free to send me some improvements or impressions 😉
