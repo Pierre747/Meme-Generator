@@ -13,6 +13,10 @@ Feel free to send me some improvements or impressions 😉
 
 To access the project online, *please visit this URL* : https://tangerine-dolphin-9a9d5e.netlify.app/
 
+## A little preview
+
+<img align="center" src="screen.png" alt="screenshot" width="1000" />
+
 ## The toolBox 🛠️
 
 I've used several react hooks :
