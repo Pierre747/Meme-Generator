@@ -11,7 +11,7 @@ There was no search bar or download button that had to be implemented.
 
 Feel free to send me some improvements or impressions 😉
 
-To access the project online, *please visit this URL* : https://tangerine-dolphin-9a9d5e.netlify.app/
+To access the project online, *please visit this URL* : https://meme-generator-pierre.netlify.app/
 
 ## A little preview 🧐
 
